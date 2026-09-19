@@ -78,18 +78,6 @@ JTorrent is in early beta, and feedback is useful for improving:
 
 Please review the website's Terms and DMCA pages for information about service rules, permitted use, and copyright-related requests.
 
-## Screenshots
-
-Screenshots and demo images will be added as the beta develops.
-
-Recommended screenshots:
-
-1. JTorrent homepage.
-2. Mobile browser view.
-3. Torrent file selection screen.
-4. Download status screen.
-5. Pricing page.
-
 ## Feedback and issues
 
 If you find a problem, please open an issue with:
